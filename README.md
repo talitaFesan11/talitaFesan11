@@ -62,8 +62,8 @@ Sou estudante da **Web Academy** na formação Full Stack Developer, com foco em
 
 ## 📫 Contato
 
-- 🔗 [LinkedIn](https://linkedin.com/in/SEU-LINKEDIN)
-- 📧 talita@email.com *(substitua pelo seu real)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/talitafesan/)
+- 📧 talitafesan@gmail.com
 
 ---
 
