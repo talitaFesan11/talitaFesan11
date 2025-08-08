@@ -18,6 +18,33 @@ Sou estudante da **Web Academy** na formação Full Stack Developer, com foco em
 
 ---
 
+## 🎓 Formação Acadêmica
+
+- **Bacharel em Ciências da Computação**
+- **Técnico em Informática** - CETAM
+- **Curso de Extensão em Desenvolvimento Full Stack** - WebAcademy/UFAM (cursando)
+
+---
+
+## 💼 Experiência Profissional
+
+### **Analista de Desenvolvimento de Sistemas - Front-End**  
+📌 IPDEC  
+⏳ 2 anos  
+🔹 Responsabilidades:  
+
+### **Bolsista DTI**  
+📌 IPDEC  
+⏳ 6 meses  
+🔹 Responsabilidades:  
+
+### **Analista de Sistemas - DevOps e Infraestrutura**  
+📌 Controladoria Geral do Estado do Amazonas - CGE  
+⏳ 3 anos  
+🔹 Responsabilidades:  
+
+---
+
 ## 🧠 Habilidades em Formação
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
