@@ -59,8 +59,8 @@ Sou estudante da **Web Academy** na formação Full Stack Developer, com foco em
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| 📝 [To Do App com TS](https://github.com/talitaFesan11/Projeto-SciEvent-UFAM-DevAcademy ) | Plataforma CMS (Sistema de Gestão de Conteúdos) para criação de sites de conferências e outros tipos de eventos científicos.|
-| 📝 [To Do App com TS](https://github.com/SEU_USUARIO/todo-ts-localstorage) | HTML, TypeScript | Gerenciador de tarefas com autenticação |
+| 📝 [Projeto SciEvent UFAM-DevAcademy](https://github.com/talitaFesan11/Projeto-SciEvent-UFAM-DevAcademy ) | React, Nextjs, Typescript, Tailwind, Nodejs, Express| Plataforma CMS (Sistema de Gestão de Conteúdos) para criação de sites de conferências e outros tipos de eventos científicos.
+| 📝 [To Do App com T](https://github.com/SEU_USUARIO/todo-ts-localstorage) | HTML, TypeScript | Gerenciador de tarefas com autenticação |
 | 🛒 [Loja com React](https://github.com/SEU_USUARIO/loja-react-context) | React, Context API | Loja virtual com carrinho e favoritos |
 | 🔐 [API com JWT](https://github.com/SEU_USUARIO/api-auth-jwt) | Node, Express, JWT | API com autenticação e rotas protegidas |
 | 🐳 [App com Docker + CI/CD](https://github.com/SEU_USUARIO/app-docker-cicd) | Node, Docker, GitHub Actions | Deploy automatizado com CI/CD |
